@@ -537,6 +537,7 @@ footer .social a:hover {
     margin-left: auto;
     margin-right: auto;
   }
+
   .section {
     padding: 10rem 0;
   }
@@ -611,6 +612,7 @@ footer .social a:hover {
   .cards {
     grid-template-columns: 1fr 1fr 1fr;
   }
+  
   .card {
     padding-left: 3rem;
     padding-right: 3rem;
@@ -649,7 +651,6 @@ footer .social a:hover {
 }
 /* Large devices: 1023 > */
 /* Large devices: 992 > */
-
 @media (min-width: 992px) {
   :root {
     --title-font-size: 2.25rem;
